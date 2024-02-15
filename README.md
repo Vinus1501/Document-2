@@ -25,7 +25,7 @@
 
 [Use Cases:](#Use-Cases:)
 
-[2. Snapshots](2.-Snapshots)
+[2. Snapshots](#2.-Snapshots)
 
 [Function:](#Function:)
 
@@ -46,3 +46,32 @@ Think of it as a Virtual Hard Drive:
 -So, in simple words, EBS is like a flexible, virtual hard drive that you can attach to your virtual computer in AWS, and it helps you store and manage your data in the cloud.
 
 ![](https://driveshero.com/wp-content/uploads/2022/09/Aws-Nvme-Ssd-Vs-Ebs_3211.png)
+
+**Features of Amazon EBS**
+-1. Block Storage: 
+-EBS provides block-level storage volumes that you can attach to EC2 instances. These volumes behave like raw, unformatted block devices, and you can install a file system on them as you would with a physical hard drive.
+
+2.Snapshots for Backup:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

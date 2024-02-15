@@ -18,14 +18,23 @@
 [4. Encryption: ](#4.-Encryption:)
 
 [**Points to be covered in EBS**](#Points-to-be-covered-in-EBS)
+
 [1. Volumes](#1.-Volumes)
+
 [Function:](#Function:)
+
 [Use Cases:](#Use-Cases:)
+
 [2. Snapshots](2.-Snapshots)
+
 [Function:](#Function:)
+
 [Use Cases:](#Use-Cases:)
+
 [3. Lifecycle Manager](#3.-Lifecycle-Manager)
+
 [**Steps to connect Snapshot and Volume**](#Steps-to-connect-Snapshot-and-Volume)
+
 [**Reference Links**](#Reference-Links)
 
 # **Introduction**
